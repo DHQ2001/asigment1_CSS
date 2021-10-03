@@ -1,0 +1,30 @@
+header{
+    background-color: brown;
+}
+h1{
+color: #000;
+text-align: center;
+text-transform: lowercase;
+}
+h2{
+    color: #000060;
+    text-transform: uppercase;
+    }
+section{
+    background-color: pink;
+}
+nav a{
+    background-color: #cccccc;
+    }
+    
+    a{
+    color: #000000;
+    background-color: #a6a6a6;
+    text-align: center;
+    }
+    
+    img{
+    display: none;
+    }
+    
+    
